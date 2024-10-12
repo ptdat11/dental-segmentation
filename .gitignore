@@ -1,3 +1,6 @@
-_experiment
 experiment/data/*
+data/*
+experiment/data
 __pycache__
+wandb
+_data
